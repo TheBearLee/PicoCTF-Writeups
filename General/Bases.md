@@ -1,6 +1,8 @@
+# Bases
+
 This challenge introduces us to basic cryptography, specifically base64
 
-1. Identify the type to encryption used
+# Identify the type to encryption used
 
 The challenge provides no files and so we are given a string of numbers and characters to start off with. We are tasked with decrypting this in order to submit as a flag.
 
