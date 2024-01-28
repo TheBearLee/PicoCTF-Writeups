@@ -1,10 +1,12 @@
+# Strings It
+
 This challenge focuses on the `strings` tool. The `strings` tool finds the human-readable text within a binary file and outputs it for future use.
 
-1. Download the file from picoCTF
+# Download the file from picoCTF
 
 You will receive the file called "strings".
 
-2. Use the `strings` command on the file
+# Use the `strings` command on the file
 
 Trying to just use `cat` on the file prints out a bunch of digits and impossible-to-read jargon. This is where `strings` comes in.
 
