@@ -1,6 +1,6 @@
 # 2Warm
 
-Similar to [[Lets Warm Up]] and [[Warmed Up]] this challenge is simply a conversion test.
+Similar to Lets Warm Up and Warmed Up this challenge is simply a conversion test.
 
 # Convert the decimal number to binary
 
