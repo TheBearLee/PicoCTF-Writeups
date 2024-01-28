@@ -1,15 +1,17 @@
+# Nice Netcat
+
 Nice Netcat is about using a `netcat` connection to receive data.
 ```
 nc [address] [port]
 ```
 
-1. Use the given `netcat` command given in the description of the challenge
+# Use the given `netcat` command given in the description of the challenge
 
 When using `netcat` you can use the abbreviation nc.
 
 Nc creates a connection with a port using a TCP and UDP process to read and write data across a network.
 
-2. Once connected, decrypt the decimal data to ASCII
+# Once connected, decrypt the decimal data to ASCII
 
 When connecting to the `nc` socket, a bunch of decimal numbers are sent across the stream to us. 
 
