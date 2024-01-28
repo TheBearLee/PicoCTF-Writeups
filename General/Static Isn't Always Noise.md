@@ -1,32 +1,34 @@
+# Static Isn't Always Noise
+
 Finally a challenge that has multiple solutions! I will cover each down below. 
 
-1. Download the files from PicoCTF
+# Download the files from PicoCTF
 
 From the site, you will receive files `static` and `ltdis.sh` 
 
-PROCESS 1
+# PROCESS 1
 
-2. Use the BASH script given to you
+## Use the BASH script given to you
 
 When running the Bash script using `./ltdis.sh` you receive a message that you need a file argument.
 
 Once you add this argument, two new files populate- "static.ltdis.strings.txt" and "static.ltdis.x86_64.txt".
 
-3. Read from the `strings.txt` file
+## Read from the `strings.txt` file
 
 To do this, you can use `cat` or simply just open the file with any text editor available to you.
 
 From reading the contents manually, you can quickly find the flag within the first several lines and submit!
 
-PROCESS 2
+# PROCESS 2
 
 Once I learned that the flag was simply a string within the contents of the `static` file, I attempted to use the `strings` command
 
-2. Use `strings` on the file
+## Use `strings` on the file
 
 `Strings` is a command that strips all the human-readable text from a non-text file (binary files). This is very useful when looking for text within coding programs that may contain non-printable characters.
 
-3. Using piping, use the `grep` command to find the flag
+## Using piping, use the `grep` command to find the flag
 
 Piping is a very important concept within command line. It simply attaches one command to the output of another.
 
