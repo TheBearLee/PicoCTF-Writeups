@@ -1,6 +1,8 @@
-Similar to [[Lets Warm Up]] this level tests your cryptography and conversion skills
+# Warmed Up
 
-1. Calculate the decimal version of the hexadecimal number
+Similar to Lets Warm Up this level tests your cryptography and conversion skills
+
+# Calculate the decimal version of the hexadecimal number
 
 There is simply only one step to this challenge since we are converting from hex to decimal so here we go-
 
