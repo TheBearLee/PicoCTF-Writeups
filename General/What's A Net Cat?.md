@@ -1,6 +1,8 @@
+# What's A Net Cat?
+
 This challenge focuses on the `nc` tool better known as "Netcat".
 
-1. Use the address and port number given in the instructions for the challenge
+# Use the address and port number given in the instructions for the challenge
 
 "Netcat" is a tool that creates a socket connection with a server on a given port to send and receive data. Netcat normally follows the following format-
 ```
